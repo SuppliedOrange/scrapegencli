@@ -1,0 +1,1 @@
+npm install && cd scrapegen-mod && npm install

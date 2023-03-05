@@ -1,0 +1,27 @@
+{
+  "name": "scrapegencli",
+  "version": "1.0.0",
+  "description": "A command line interface for scrapgen, a webscraper for a deep dream generator website for unlimited free text2img conversions :)",
+  "main": "scrapegen_menu.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webscraper",
+    "image",
+    "generator",
+    "ai",
+    "free",
+    "images",
+    "deep",
+    "dream",
+    "generator"
+  ],
+  "author": "suppliedorange",
+  "license": "MIT",
+  "dependencies": {
+    "clipboardy": "^3.0.0",
+    "config.ini": "^0.0.60"
+  }
+}

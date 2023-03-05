@@ -1,0 +1,64 @@
+; Settings for the generation of the image.
+; A more detailed guide is available on https://deepdreamgenerator.com/how-it-works
+
+[Generator]
+
+prompt = 'emma watson as nature magic celestial, top down pose, long hair, soft pink and white transparent cloth, space, D&D, shiny background, intricate, elegant, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, artgerm, bouguereau'
+model = 'Fantasy'
+aspect_ratio = 'Portrait'
+quality = 'High'
+negative_prompt = 'abstract,scary,weird,odd'
+face_enhance = 'None'
+upscale_and_enhance = '1MP'
+follow_model_style = 'false'
+
+
+;;; Complete setting guide ;;;
+
+; Prompt
+
+# You can customize the prompt to whatever suits your needs. Seperate qualities by commas.
+
+; Models
+
+# Fusion - Trained with high-quality and visually appealing images, excels in consistently delivering outstanding results.
+# Artistic - Trained on high-quality artistic images, excels in producing visually striking and pleasing results.
+# Fantasy - Trained on high-quality fantasy and 3D anime images.
+# PhotoReal - Trained on photorealistic images and photography, well-suited for generating realistic people and faces.
+# Stable (Old) - Base model trained on a diverse range of images, all models above are fine-tuned versions of this one.
+# Cyberspace (v2) - Trained on high-quality 3D images with a sci-fi aesthetic, excels in producing cool cars, robots, and gaming characters.
+# Quantum (v2) - Trained on high-quality 3D images with a gaming aesthetic, excels in producing 3D portraits, animals and landscapes with a game-like feel.
+# Stable (v2) - Base model, the above 2 models are based on this one.
+
+; Aspect Ratios (determines the aspect ratio of the resulting image, whether it should be square, horizontal, or vertical.)
+
+# Landscape
+# Square 
+# Portrait
+
+; Qualities ( High quality will improve the quality and resolution of the result image. )
+
+# Normal
+# High
+
+; Negative Prompt
+
+# Basically stuff you don't want in the resulting image
+
+; Face Enhance
+; ( Can be used to correct various artifacts and misalignments. It also improves the clarity of the eyes and mouth in the subject. Works best with Upscale And Enhance enabled )
+
+# None
+# Normal
+
+; Upscale & Enhance 
+; ( Improves the image by reducing noise and increasing resolution, resulting in a clearer and more defined image than the original. However, it may also cause some loss of texture in certain areas such as skin or paint )
+
+# None
+# 1 MP
+# 2 MP (DO NOT USE THIS IF YOU'RE USING HIGH QUALITY, YOUR TOKENS ARE LIMITED)
+
+; Follow Model Style ( Adheres to the style of the training data of the chosen model while generating images instead of being extra creative )
+
+# true
+# false

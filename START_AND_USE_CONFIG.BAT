@@ -1,0 +1,2 @@
+cd start_methods
+node default_config.js

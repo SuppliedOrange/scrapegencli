@@ -31,8 +31,6 @@ There's img2img, inpainting and more but honestly why would I program that when 
 ### `Generate through data from a custom .ini file`
 - The above setting uses a specific file named `CONFIG.ini`. You can provide the path to your own .ini file to generate data with this setting.
 
-<br>
-
 - ##### (This would probably work great as a path-level program with arguements being the file path.)
 
 ### `Change what happens after retrieving the image`

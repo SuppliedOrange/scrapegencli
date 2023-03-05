@@ -73,3 +73,4 @@ This has a lot more potential but honestly if I had the motivation to make half 
 - [scrapegen](https://github.com/SuppliedOrange/scrapegen) (Not yet)
 - [clipboardy](https://github.com/sindresorhus/clipboardy)
 - [config.ini](https://github.com/martinswiderski/config.ini)
+- [open](https://github.com/sindresorhus/open)

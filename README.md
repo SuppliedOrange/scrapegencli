@@ -64,7 +64,7 @@ It is highly recommended you use this with `Log to console` setting and `Downloa
 
 This was created with ease of accessibility in mind. There's an entire ES6 port of scrapegen in the repo, I have a really good explanation I promise. I'll tell you once I'm done watching the entire One Piece series.
 
-This has a lot more potential but honestly if I had the motivation to make half the things I think of, I'd be the next steve jobs right now.
+This has a lot more potential but honestly if I had the motivation to make half the things I think of, I probably won't be sitting here playing video games.
 
 <br>
 

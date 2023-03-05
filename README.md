@@ -4,7 +4,7 @@
 <br>
 
 # How do I install this?
-- Go to [the releases tab](https://github.com/SuppliedOrange/scrapegen/releases) and install the latest version of the project ( a .zip file ).
+- Go to [the releases tab](https://github.com/SuppliedOrange/scrapegencli/releases) and install the latest version of the project ( a .zip file ).
 - Install [NodeJS](https://nodejs.org/en/download/).
 - Unzip the .zip file and run `DEPENDENCY-INSTALLER.BAT`.
 - Finally, run `START.BAT`. Yay!

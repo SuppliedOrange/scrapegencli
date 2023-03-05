@@ -22,6 +22,7 @@
   "license": "MIT",
   "dependencies": {
     "clipboardy": "^3.0.0",
-    "config.ini": "^0.0.60"
+    "config.ini": "^0.0.60",
+    "open": "^8.4.2"
   }
 }

@@ -4,7 +4,7 @@ export const title = `
 \\__ \\ (__| | | (_| | |_) |  __/ (_| |  __/ | | |
 |___/\\___|_|  \\__,_| .__/ \\___|\\__, |\\___|_| |_|
                    |_|         |___/            
-                   @lternatively | suppliedorange | Doog#5101               
+                   @kronsuki | suppliedorange | Doog#5101               
 `
 export const generating = `
                                  _   _                   

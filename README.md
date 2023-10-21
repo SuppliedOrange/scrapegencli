@@ -60,7 +60,7 @@ It is highly recommended you use this with `Log to console` setting and `Downloa
 
 # Notes
 
-This was created with ease of accessibility in mind. There's an entire ES6 port of scrapegen in the repo, I have a really good explanation I promise. I'll tell you once I'm done watching the entire One Piece series.
+This was created with ease of accessibility in mind. There's an entire ES6 port of scrapegen in the repo, I wish I could tell you why I thought it was better to rewrite my own package and squeeze it in here instead of updating and importing the main one.
 
 This has a lot more potential but honestly if I had the motivation to make half the things I think of, I probably won't be sitting here playing video games.
 

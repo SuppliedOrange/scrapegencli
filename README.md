@@ -12,7 +12,7 @@
 <br>
 
 # What is this?
-I made a webscraper called [scrapegen](https://github.com/SuppliedOrange/scrapegen) for a certain website that uses the Deep Dream AI image generator. This webscraper bypasses the paywall by generating new accounts each time it is initialized.
+I made a webscraper called [scrapegen](https://github.com/SuppliedOrange/scrapegen) for a certain website that uses the Deep Dream AI image generator. This webscraper bypasses the paywall by generating new accounts each time it is initialized. However, this is only  POC and should not be used for unethical purposes. Please read DeepDreamGenerator's info and guidelines.
 
 <br>
 

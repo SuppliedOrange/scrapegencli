@@ -12,9 +12,7 @@
 <br>
 
 # What is this?
-I made a webscraper called [scrapegen](https://github.com/SuppliedOrange/scrapegen) for a certain website that uses the Deep Dream AI image generator. This webscraper bypasses the paywall by generating new accounts each time it is initialized. Free AI art, forever. 
-### "That's it?"
-There's img2img, inpainting and more but honestly why would I program that when I could be playing R6S while drinking my favourite cold coffee. Jokes aside, this is about as powerful as an early stablediffusion model that runs on CPU proccessing. So yeah, that's it.
+I made a webscraper called [scrapegen](https://github.com/SuppliedOrange/scrapegen) for a certain website that uses the Deep Dream AI image generator. This webscraper bypasses the paywall by generating new accounts each time it is initialized.
 
 <br>
 
@@ -61,8 +59,6 @@ It is highly recommended you use this with `Log to console` setting and `Downloa
 # Notes
 
 This was created with ease of accessibility in mind. There's an entire ES6 port of scrapegen in the repo, I wish I could tell you why I thought it was better to rewrite my own package and squeeze it in here instead of updating and importing the main one.
-
-This has a lot more potential but honestly if I had the motivation to make half the things I think of, I probably won't be sitting here playing video games.
 
 <br>
 

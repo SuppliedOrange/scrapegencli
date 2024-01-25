@@ -1,5 +1,6 @@
-# scrapegencli
+# scrapegencli [ Broken & Depreceated! ]
  A Command Line Interface for [scrapegen](https://github.com/SuppliedOrange/scrapegen), an webscraper for unlimited free text2image.
+ Currently broken. I will work on a fix when I get the time to do so.
 
 <br>
 

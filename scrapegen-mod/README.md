@@ -2,7 +2,7 @@
 
 ### Note that this is for educational purposes only.
 ### This is a modded version of the original scrapegen, and will not work.
-The original scrapgen will be rewritten and published at a later date, which will be used as a dependency here.
+It will probably be rewritten and published at a later date, which will be used as a dependency here.
 
 <br>
 
